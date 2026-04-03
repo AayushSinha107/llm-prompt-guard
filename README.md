@@ -34,7 +34,6 @@ pip install -r requirements.txt
 ```
 
 ### 2. Train the Model
-If you haven't committed the .pkl files, or want to retrain with the latest data:
 
 ```bash
 python download_data.py
